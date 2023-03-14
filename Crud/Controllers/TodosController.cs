@@ -1,9 +1,7 @@
-﻿using Crud.Models;
-using Crud.Services;
+﻿using Crud.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-
-
+using TaskAPI.Services;
 
 namespace Crud.Controllers
 {
@@ -11,11 +9,11 @@ namespace Crud.Controllers
     [ApiController]
     public class TodosController : ControllerBase
     {
-        private TodoService _todoService;
+        private readonly ITodoRepository _todoService;
 
-        public TodosController()
+        public TodosController(ITodoRepository repository)
         {
-            _todoService = new TodoService();
+            _todoService = repository;
         }
 
         [HttpGet("{id?}")]

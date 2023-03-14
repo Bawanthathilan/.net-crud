@@ -30,3 +30,7 @@ C:\Users\Susantha\source\repos\Crud\Crud\obj\Debug\net6.0\refint\Crud.dll
 C:\Users\Susantha\source\repos\Crud\Crud\obj\Debug\net6.0\Crud.pdb
 C:\Users\Susantha\source\repos\Crud\Crud\obj\Debug\net6.0\Crud.genruntimeconfig.cache
 C:\Users\Susantha\source\repos\Crud\Crud\obj\Debug\net6.0\ref\Crud.dll
+C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\TaskAPI.Models.dll
+C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\TaskAPI.Services.dll
+C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\TaskAPI.Services.pdb
+C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\TaskAPI.Models.pdb

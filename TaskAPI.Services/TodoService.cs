@@ -1,8 +1,9 @@
 ﻿using Crud.Models;
+using TaskAPI.Services;
 
 namespace Crud.Services
 {
-    public class TodoService
+    public class TodoService:ITodoRepository
     {
         public List<Todo> AllTodos()
         {
