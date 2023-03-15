@@ -5,11 +5,11 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Crud", "Crud\Crud.csproj", "{E040F3E1-5D4E-437D-9C2F-A9C725A3A539}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAPI.Models", "TaskAPI.Models\TaskAPI.Models.csproj", "{2A286CF0-102C-4F7B-8464-BB651DCDC3A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskAPI.Models", "TaskAPI.Models\TaskAPI.Models.csproj", "{2A286CF0-102C-4F7B-8464-BB651DCDC3A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAPI.Services", "TaskAPI.Services\TaskAPI.Services.csproj", "{DFB24894-FD98-415B-A175-072EE2136CB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskAPI.Services", "TaskAPI.Services\TaskAPI.Services.csproj", "{DFB24894-FD98-415B-A175-072EE2136CB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAPI.DataAccess", "TaskAPI.DataAccess\TaskAPI.DataAccess.csproj", "{6D2B3B95-5532-40FC-B2B7-976703D93608}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskAPI.DataAccess", "TaskAPI.DataAccess\TaskAPI.DataAccess.csproj", "{6D2B3B95-5532-40FC-B2B7-976703D93608}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
