@@ -1,9 +1,8 @@
 ﻿using Crud.Models;
-using TaskAPI.Services;
 
-namespace Crud.Services
+namespace TaskAPI.Services.Todos
 {
-    public class TodoService:ITodoRepository
+    public class TodoService : ITodoRepository
     {
         public List<Todo> AllTodos()
         {
@@ -48,6 +47,10 @@ namespace Crud.Services
 
             return todos;
         }
-    
-}
+
+        public Todo GetTodo(int id)
+        {
+            throw new NotImplementedException();
+        }
+    }
 }

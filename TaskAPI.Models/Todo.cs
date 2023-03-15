@@ -1,4 +1,6 @@
-﻿namespace Crud.Models
+﻿using TaskAPI.Models;
+
+namespace Crud.Models
 {
     public class Todo
     {
@@ -8,5 +10,8 @@
        public DateTime CreatedAt { get; set;}
        public DateTime Due { get; set;}
        public TodoStatus Status { get; set; } //New, InProgress , Complete
+
+       public int AuthorId { get; set; }
+       public Author Author { get; set; }
     }
 }
