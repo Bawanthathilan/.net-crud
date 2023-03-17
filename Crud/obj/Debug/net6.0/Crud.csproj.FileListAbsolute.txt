@@ -104,3 +104,5 @@ C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\runtimes\browser\lib\n
 C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\TaskAPI.DataAccess.dll
 C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\TaskAPI.DataAccess.pdb
+C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Susantha\source\repos\Crud\Crud\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
